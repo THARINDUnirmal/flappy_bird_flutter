@@ -18,20 +18,6 @@ This project helped me learn:
 
 ---
 
-## 📂 Project Structure
-
-/lib
-├── main.dart
-├── flappy_game.dart
-├── bird.dart
-└── pipe.dart
-/assets
-├── bird.png
-├── pipe_top.png
-└── pipe_bottom.png
-
----
-
 ## 🎮 How to Play
 
 - Tap the screen to **jump**
